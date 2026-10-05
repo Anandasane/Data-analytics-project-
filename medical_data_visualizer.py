@@ -5,7 +5,7 @@ import numpy as np
 
 
 # 1. Import the data
-df = pd.read_csv('medical_examination.csv')
+df = pd.read_csv('cardio_train.csv')
 
 # 2. Add 'overweight' column
 df['overweight'] = (
