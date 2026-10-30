@@ -1,0 +1,301 @@
+CustomerID,CustomerName,Segment,RegionID
+1001,Customer 1,Consumer,1
+1002,Customer 2,Small Business,3
+1003,Customer 3,Corporate,3
+1004,Customer 4,Corporate,3
+1005,Customer 5,Consumer,4
+1006,Customer 6,Consumer,5
+1007,Customer 7,Consumer,3
+1008,Customer 8,Small Business,2
+1009,Customer 9,Corporate,4
+1010,Customer 10,Corporate,2
+1011,Customer 11,Consumer,3
+1012,Customer 12,Small Business,1
+1013,Customer 13,Small Business,1
+1014,Customer 14,Consumer,5
+1015,Customer 15,Consumer,4
+1016,Customer 16,Consumer,4
+1017,Customer 17,Consumer,2
+1018,Customer 18,Corporate,1
+1019,Customer 19,Consumer,1
+1020,Customer 20,Consumer,2
+1021,Customer 21,Corporate,3
+1022,Customer 22,Consumer,4
+1023,Customer 23,Consumer,3
+1024,Customer 24,Consumer,2
+1025,Customer 25,Consumer,5
+1026,Customer 26,Corporate,4
+1027,Customer 27,Consumer,3
+1028,Customer 28,Corporate,3
+1029,Customer 29,Corporate,2
+1030,Customer 30,Consumer,2
+1031,Customer 31,Corporate,2
+1032,Customer 32,Consumer,4
+1033,Customer 33,Consumer,1
+1034,Customer 34,Small Business,1
+1035,Customer 35,Small Business,1
+1036,Customer 36,Small Business,1
+1037,Customer 37,Consumer,5
+1038,Customer 38,Consumer,4
+1039,Customer 39,Corporate,3
+1040,Customer 40,Consumer,1
+1041,Customer 41,Consumer,3
+1042,Customer 42,Consumer,3
+1043,Customer 43,Consumer,1
+1044,Customer 44,Small Business,3
+1045,Customer 45,Consumer,2
+1046,Customer 46,Corporate,3
+1047,Customer 47,Consumer,3
+1048,Customer 48,Corporate,1
+1049,Customer 49,Corporate,2
+1050,Customer 50,Consumer,3
+1051,Customer 51,Small Business,3
+1052,Customer 52,Corporate,5
+1053,Customer 53,Small Business,3
+1054,Customer 54,Small Business,1
+1055,Customer 55,Corporate,1
+1056,Customer 56,Small Business,3
+1057,Customer 57,Consumer,1
+1058,Customer 58,Consumer,3
+1059,Customer 59,Consumer,5
+1060,Customer 60,Consumer,3
+1061,Customer 61,Consumer,2
+1062,Customer 62,Consumer,3
+1063,Customer 63,Small Business,3
+1064,Customer 64,Consumer,3
+1065,Customer 65,Consumer,5
+1066,Customer 66,Corporate,2
+1067,Customer 67,Consumer,5
+1068,Customer 68,Small Business,5
+1069,Customer 69,Consumer,2
+1070,Customer 70,Small Business,1
+1071,Customer 71,Corporate,1
+1072,Customer 72,Consumer,1
+1073,Customer 73,Consumer,1
+1074,Customer 74,Small Business,3
+1075,Customer 75,Corporate,1
+1076,Customer 76,Corporate,2
+1077,Customer 77,Corporate,4
+1078,Customer 78,Consumer,1
+1079,Customer 79,Consumer,4
+1080,Customer 80,Consumer,2
+1081,Customer 81,Small Business,1
+1082,Customer 82,Corporate,4
+1083,Customer 83,Consumer,3
+1084,Customer 84,Consumer,5
+1085,Customer 85,Consumer,4
+1086,Customer 86,Consumer,4
+1087,Customer 87,Corporate,2
+1088,Customer 88,Corporate,1
+1089,Customer 89,Small Business,4
+1090,Customer 90,Consumer,4
+1091,Customer 91,Consumer,5
+1092,Customer 92,Corporate,2
+1093,Customer 93,Corporate,2
+1094,Customer 94,Corporate,4
+1095,Customer 95,Corporate,2
+1096,Customer 96,Consumer,5
+1097,Customer 97,Corporate,5
+1098,Customer 98,Consumer,3
+1099,Customer 99,Consumer,4
+1100,Customer 100,Consumer,4
+1101,Customer 101,Consumer,1
+1102,Customer 102,Corporate,5
+1103,Customer 103,Consumer,3
+1104,Customer 104,Corporate,4
+1105,Customer 105,Small Business,2
+1106,Customer 106,Consumer,5
+1107,Customer 107,Consumer,2
+1108,Customer 108,Corporate,1
+1109,Customer 109,Consumer,5
+1110,Customer 110,Consumer,1
+1111,Customer 111,Consumer,2
+1112,Customer 112,Consumer,5
+1113,Customer 113,Small Business,5
+1114,Customer 114,Small Business,3
+1115,Customer 115,Corporate,3
+1116,Customer 116,Small Business,3
+1117,Customer 117,Small Business,2
+1118,Customer 118,Consumer,2
+1119,Customer 119,Small Business,3
+1120,Customer 120,Corporate,4
+1121,Customer 121,Small Business,4
+1122,Customer 122,Small Business,4
+1123,Customer 123,Consumer,1
+1124,Customer 124,Consumer,3
+1125,Customer 125,Consumer,1
+1126,Customer 126,Consumer,3
+1127,Customer 127,Small Business,3
+1128,Customer 128,Small Business,5
+1129,Customer 129,Consumer,2
+1130,Customer 130,Corporate,1
+1131,Customer 131,Consumer,1
+1132,Customer 132,Consumer,4
+1133,Customer 133,Consumer,3
+1134,Customer 134,Consumer,1
+1135,Customer 135,Small Business,1
+1136,Customer 136,Consumer,4
+1137,Customer 137,Corporate,1
+1138,Customer 138,Corporate,4
+1139,Customer 139,Consumer,4
+1140,Customer 140,Small Business,1
+1141,Customer 141,Small Business,1
+1142,Customer 142,Consumer,5
+1143,Customer 143,Consumer,2
+1144,Customer 144,Consumer,2
+1145,Customer 145,Consumer,4
+1146,Customer 146,Consumer,5
+1147,Customer 147,Corporate,5
+1148,Customer 148,Corporate,4
+1149,Customer 149,Consumer,2
+1150,Customer 150,Consumer,1
+1151,Customer 151,Small Business,4
+1152,Customer 152,Consumer,3
+1153,Customer 153,Consumer,3
+1154,Customer 154,Consumer,5
+1155,Customer 155,Small Business,1
+1156,Customer 156,Consumer,3
+1157,Customer 157,Corporate,1
+1158,Customer 158,Corporate,3
+1159,Customer 159,Consumer,1
+1160,Customer 160,Corporate,1
+1161,Customer 161,Consumer,1
+1162,Customer 162,Corporate,3
+1163,Customer 163,Corporate,4
+1164,Customer 164,Corporate,3
+1165,Customer 165,Consumer,5
+1166,Customer 166,Small Business,2
+1167,Customer 167,Consumer,2
+1168,Customer 168,Consumer,5
+1169,Customer 169,Consumer,2
+1170,Customer 170,Corporate,5
+1171,Customer 171,Corporate,1
+1172,Customer 172,Consumer,5
+1173,Customer 173,Corporate,1
+1174,Customer 174,Consumer,5
+1175,Customer 175,Corporate,3
+1176,Customer 176,Consumer,5
+1177,Customer 177,Corporate,1
+1178,Customer 178,Consumer,3
+1179,Customer 179,Small Business,5
+1180,Customer 180,Consumer,3
+1181,Customer 181,Consumer,3
+1182,Customer 182,Consumer,4
+1183,Customer 183,Small Business,3
+1184,Customer 184,Small Business,3
+1185,Customer 185,Consumer,3
+1186,Customer 186,Corporate,5
+1187,Customer 187,Small Business,1
+1188,Customer 188,Corporate,2
+1189,Customer 189,Corporate,5
+1190,Customer 190,Consumer,5
+1191,Customer 191,Consumer,3
+1192,Customer 192,Small Business,3
+1193,Customer 193,Small Business,2
+1194,Customer 194,Corporate,2
+1195,Customer 195,Consumer,3
+1196,Customer 196,Consumer,2
+1197,Customer 197,Corporate,3
+1198,Customer 198,Small Business,1
+1199,Customer 199,Small Business,5
+1200,Customer 200,Corporate,5
+1201,Customer 201,Corporate,4
+1202,Customer 202,Consumer,3
+1203,Customer 203,Consumer,2
+1204,Customer 204,Small Business,4
+1205,Customer 205,Corporate,3
+1206,Customer 206,Consumer,1
+1207,Customer 207,Consumer,5
+1208,Customer 208,Corporate,4
+1209,Customer 209,Consumer,5
+1210,Customer 210,Consumer,4
+1211,Customer 211,Corporate,3
+1212,Customer 212,Corporate,2
+1213,Customer 213,Corporate,5
+1214,Customer 214,Consumer,5
+1215,Customer 215,Corporate,1
+1216,Customer 216,Consumer,1
+1217,Customer 217,Consumer,2
+1218,Customer 218,Corporate,4
+1219,Customer 219,Corporate,5
+1220,Customer 220,Small Business,1
+1221,Customer 221,Corporate,3
+1222,Customer 222,Corporate,2
+1223,Customer 223,Consumer,5
+1224,Customer 224,Consumer,4
+1225,Customer 225,Consumer,4
+1226,Customer 226,Consumer,3
+1227,Customer 227,Small Business,2
+1228,Customer 228,Consumer,2
+1229,Customer 229,Small Business,1
+1230,Customer 230,Corporate,5
+1231,Customer 231,Corporate,4
+1232,Customer 232,Corporate,5
+1233,Customer 233,Corporate,5
+1234,Customer 234,Consumer,3
+1235,Customer 235,Consumer,4
+1236,Customer 236,Corporate,5
+1237,Customer 237,Consumer,4
+1238,Customer 238,Consumer,2
+1239,Customer 239,Corporate,3
+1240,Customer 240,Consumer,1
+1241,Customer 241,Small Business,5
+1242,Customer 242,Small Business,3
+1243,Customer 243,Small Business,2
+1244,Customer 244,Consumer,3
+1245,Customer 245,Consumer,3
+1246,Customer 246,Small Business,2
+1247,Customer 247,Consumer,1
+1248,Customer 248,Small Business,3
+1249,Customer 249,Small Business,3
+1250,Customer 250,Small Business,4
+1251,Customer 251,Consumer,3
+1252,Customer 252,Consumer,5
+1253,Customer 253,Small Business,3
+1254,Customer 254,Consumer,3
+1255,Customer 255,Consumer,5
+1256,Customer 256,Corporate,2
+1257,Customer 257,Small Business,1
+1258,Customer 258,Corporate,1
+1259,Customer 259,Corporate,4
+1260,Customer 260,Consumer,3
+1261,Customer 261,Corporate,4
+1262,Customer 262,Small Business,2
+1263,Customer 263,Consumer,1
+1264,Customer 264,Corporate,1
+1265,Customer 265,Small Business,2
+1266,Customer 266,Corporate,3
+1267,Customer 267,Corporate,2
+1268,Customer 268,Corporate,3
+1269,Customer 269,Consumer,5
+1270,Customer 270,Consumer,2
+1271,Customer 271,Small Business,3
+1272,Customer 272,Small Business,4
+1273,Customer 273,Small Business,2
+1274,Customer 274,Small Business,3
+1275,Customer 275,Corporate,5
+1276,Customer 276,Corporate,5
+1277,Customer 277,Corporate,1
+1278,Customer 278,Corporate,5
+1279,Customer 279,Corporate,3
+1280,Customer 280,Corporate,2
+1281,Customer 281,Small Business,3
+1282,Customer 282,Consumer,5
+1283,Customer 283,Consumer,3
+1284,Customer 284,Consumer,2
+1285,Customer 285,Corporate,3
+1286,Customer 286,Consumer,2
+1287,Customer 287,Consumer,1
+1288,Customer 288,Corporate,1
+1289,Customer 289,Consumer,1
+1290,Customer 290,Corporate,1
+1291,Customer 291,Consumer,1
+1292,Customer 292,Consumer,3
+1293,Customer 293,Small Business,2
+1294,Customer 294,Consumer,2
+1295,Customer 295,Consumer,5
+1296,Customer 296,Corporate,3
+1297,Customer 297,Corporate,3
+1298,Customer 298,Consumer,1
+1299,Customer 299,Corporate,2
+1300,Customer 300,Consumer,1
